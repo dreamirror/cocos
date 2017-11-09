@@ -1,0 +1,16 @@
+{
+"packageUrl" : "http://127.0.0.1:8080/packageUrl",
+"remoteManifestUrl" : "http://127.0.0.1:8080/remoteManifestUrl",
+"remoteVersionUrl" : "http://127.0.0.1:8080/remoteVersionUrl",
+"version" : "1.0.1",
+"engineVersion" : "3.0 beta",
+
+"assets" : {
+    "hello.html" : {
+        "md5" : "36c5d7723ea042461b6b760be9ebd6e6"
+    }
+},
+
+"searchPaths" : [
+]
+}
