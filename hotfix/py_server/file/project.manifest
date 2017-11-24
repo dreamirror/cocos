@@ -6,8 +6,11 @@
 "engineVersion" : "3.0 beta",
 
 "assets" : {
-    "hello.html" : {
-        "md5" : "36c5d7723ea042461b6b760be9ebd6e6"
+	"1.png" : {
+        "md5" : "6a7d0ec3c31982a911e358810065bf16"
+    },
+	"2.zip" : {
+        "md5" : "f2d134274145867650965c46b7589040"
     }
 },
 
