@@ -109,4 +109,5 @@ class remoteVersionUrl:
 		finally:
 			if f:
 				f.close()
+#test
 
