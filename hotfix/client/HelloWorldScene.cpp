@@ -175,4 +175,4 @@ void HelloWorld::onLoadEnd()
 	this->proLabel->setString("download finish");
 }
 
-
+//test
